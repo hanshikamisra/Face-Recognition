@@ -1,6 +1,10 @@
 # Exploring Image Classification & Facial Recognition Techniques
 
-[**https://kruttichhwas.github.io/face-recognition-website/**](#) | [ **Colab Notebook**](#)
+## 🔗 Project Links
+
+-  [Project Page](https://kruttichhwas.github.io/face-recognition-website/)  
+ 
+
 
 ## Introduction
 
